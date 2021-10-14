@@ -2,7 +2,7 @@
 
 The Sparks Foundation
 
-Web Development and Desgining Internship - #GRIPOCT2021 #task-1
+Web Development and Desgining Internship - #GRIPOCTOBER21 #task-1
 
 This is a very basic Banking system website created by me for an internship task at The Sparks Foundation. https://www.thesparksfoundationsingapore.org/
 
